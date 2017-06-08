@@ -1,6 +1,11 @@
 # steamFFS
 Simple use of the steam api to Find Friends' Similar games 
 
+## Running the app
+```$ export FLASK_APP=app.py
+$ python -m flask run
+ * Running on http://127.0.0.1:5000/
+```
 
 ## References and resources
 
